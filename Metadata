@@ -936,9 +936,9 @@
                "state":"Oklahoma"
             },
             {
-               "abbreviation":"KSU",
-               "prestige":"70",
-               "hexColor":"#512888",
+               "abbreviation":"MIZZ",
+               "prestige":"65",
+               "hexColor":"#F1B82D",
                "rival":"KS",
                "headCoach":{
                   "contractLength":"5",
@@ -956,8 +956,8 @@
                   "name":"Chris Klieman",
                   "contractYear":"0"
                },
-               "name":"Kansas State",
-               "state":"Kansas"
+               "name":"Missouri",
+               "state":"Missouri"
             },
             {
                "abbreviation":"KS",
